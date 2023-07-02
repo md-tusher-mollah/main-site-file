@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/md-tusher-mollah/md-tusher-mollah.github.io'
+    url: 'https://github.com/<repo>/<repo>'
     content_dir: content
     branch: main
   avatar:
